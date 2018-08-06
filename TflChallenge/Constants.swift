@@ -9,8 +9,8 @@
 import Foundation
 
 struct Constants {
-    static let appId = "055186a1"
-    static let appKey = "aca4e20474fa9c8e204886a897332ab4"
+    static let appId = ""
+    static let appKey = ""
     
     struct Messages {
         static let notFoundError = "Road not found"

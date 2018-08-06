@@ -10,7 +10,7 @@ import XCTest
 import Alamofire
 import SwiftyJSON
 @testable import TflChallenge
-
+ 
 class TflChallengeTests: XCTestCase {
     
     func testValidRequest() {
